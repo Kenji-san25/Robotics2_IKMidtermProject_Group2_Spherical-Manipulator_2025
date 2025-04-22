@@ -1,5 +1,37 @@
 # Inverse-Kinematics
 
+***Python Script***
+
+```Python
+import numpy as np
+
+
+# Input from the user
+x = np.array(float(input("X: ")))
+y = np.array(float(input("Y: ")))
+z = np.array(float(input("Z: ")))
+a1 = np.array(float(input("a1: ")))
+a2 = np.array(float(input("a2: ")))
+a3 = np.array(float(input("a3: ")))
+
+# Calculations
+t1 = np.arctan2(y, x)
+r1 = np.sqrt(x**2 + y**2)
+r2 = z - a1
+t2 = np.arctan2(r2, r1)
+d3 = np.sqrt(r1**2 + r2**2) - a2 - a3
+
+dg1 = np.degrees(t1)
+dg2 = np.degrees(t2)
+
+
+# Display results
+
+print(f"Q1: {dg1}")
+print(f"Q2: {dg2}")
+print(f"D3: {d3}")
+```
+
 ***Mathlab Script***
 
 ```Matlab
