@@ -1,5 +1,5 @@
 <div align="center"><h1>
- Inverse-Kinematics
+ Spherical Mechanical Manipulator
 </h1></div>
 
 ## Forward Kinematics
