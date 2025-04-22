@@ -1,6 +1,7 @@
 <div align="center">
 # Inverse-Kinematics
-</div>div
+</div>
+
 ## Forward Kinematics
 
 ## Parametric Table
