@@ -68,3 +68,8 @@ Spart.plot([0 0 0], 'workspace', [-30 60 -40 60 0 80], 'scale', 1);
 figure(1)
 Spart.teach
 ```
+
+
+## Table with Trial Values
+![Trial Table](https://github.com/user-attachments/assets/c1f7f2bf-9a6c-4409-97d2-ecccb59985f8)
+
