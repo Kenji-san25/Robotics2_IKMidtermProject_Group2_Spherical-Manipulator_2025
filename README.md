@@ -1,6 +1,6 @@
-<div align="center">
-# Inverse-Kinematics
-</div>
+<div align="center"><h1>
+ Inverse-Kinematics
+</h1></div>
 
 ## Forward Kinematics
 
