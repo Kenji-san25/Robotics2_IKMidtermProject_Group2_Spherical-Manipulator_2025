@@ -86,7 +86,7 @@ Spart.teach
 ![Trial Table](https://github.com/user-attachments/assets/c1f7f2bf-9a6c-4409-97d2-ecccb59985f8)
 ### Trial #1 (0%)
 
-<img src="https://github.com/user-attachments/assets/e55cc59e-c50a-4dd7-9680-c97881bf8afe" width="600"/>
+<img src="https://github.com/user-attachments/assets/e55cc59e-c50a-4dd7-9680-c97881bf8afe" width="1000"/>
 
 ![1M](https://github.com/user-attachments/assets/4a29a303-c1c5-4fb2-92ff-9b603b8dc56c)
 
