@@ -4,6 +4,8 @@
 
 ## Forward Kinematics
 
+<img src="https://github.com/Kenji-san25/Inverse-Kinematics/blob/ce084fcdb172e9e195a2c39762e2b5c0b7d485c1/IMG_20250423_110212.jpg" width="600"/>
+
 ## Parametric Table
 
 ## Inverse Kinematics
