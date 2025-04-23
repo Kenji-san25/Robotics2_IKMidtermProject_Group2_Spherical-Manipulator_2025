@@ -12,7 +12,7 @@
 
 ## Inverse Kinematics Top View
 
-<img src=" " width="600"/>
+<img src="https://github.com/Kenji-san25/Inverse-Kinematics/blob/52c0c8d0c94aa99b2330248a4a47876a7ae37ebd/TOP%20VIEW.jpg" width="600"/>
 
 ## Inverse Kinematics Front View
 
