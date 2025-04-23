@@ -8,7 +8,7 @@
 
 ## Parametric Table
 
-<img src="" width="600"/>
+<img src="https://github.com/Kenji-san25/Inverse-Kinematics/blob/45ba9ea7cd90ff3678ee3f450ab94e2c80a544ee/IMG_20250423_110234.jpg" width="600"/>
 
 ## Inverse Kinematics
 
