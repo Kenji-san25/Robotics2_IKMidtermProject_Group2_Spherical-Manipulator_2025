@@ -92,7 +92,7 @@ Spart.teach
 
 ### Trial #2 (25%)
 
-![2P](https://github.com/user-attachments/assets/c53663aa-56ed-45f1-87d0-fdd2b06934f8)
+<img src="https://github.com/user-attachments/assets/c53663aa-56ed-45f1-87d0-fdd2b06934f8" width="1050"/>
 
 ![2M](https://github.com/user-attachments/assets/596af7d8-37e1-4129-aa1f-a0801292c40b)
 
