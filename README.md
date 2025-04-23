@@ -16,7 +16,7 @@
 
 ## Inverse Kinematics Front View
 
-<img src=" " width="600"/>
+<img src="https://github.com/Kenji-san25/Inverse-Kinematics/blob/d4241b7177e22471bdd9a3ea7f6d7ea5fbd964bf/FRONT%20VIEW.jpg" width="600"/>
 
 ***Python Script***
 
