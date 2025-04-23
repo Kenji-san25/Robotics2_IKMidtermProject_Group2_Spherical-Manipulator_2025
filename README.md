@@ -83,7 +83,9 @@ Spart.teach
 
 
 ## Table with Trial Values
-![Trial Table](https://github.com/user-attachments/assets/c1f7f2bf-9a6c-4409-97d2-ecccb59985f8)
+
+<img src="https://github.com/user-attachments/assets/c1f7f2bf-9a6c-4409-97d2-ecccb59985f8" width="600"/>
+
 ### Trial #1 (0%)
 
 <img src="https://github.com/user-attachments/assets/e55cc59e-c50a-4dd7-9680-c97881bf8afe" width="1050"/>
