@@ -86,32 +86,32 @@ Spart.teach
 
 <img src="https://github.com/user-attachments/assets/c1f7f2bf-9a6c-4409-97d2-ecccb59985f8" width="600"/>
 
-### Trial #1 (0%)
+### Trial #1 
 
 <img src="https://github.com/user-attachments/assets/e55cc59e-c50a-4dd7-9680-c97881bf8afe" width="1050"/>
 
 ![1M](https://github.com/user-attachments/assets/4a29a303-c1c5-4fb2-92ff-9b603b8dc56c)
 
-### Trial #2 (25%)
+### Trial #2 
 
 <img src="https://github.com/user-attachments/assets/c53663aa-56ed-45f1-87d0-fdd2b06934f8" width="1050"/>
 
 ![2M](https://github.com/user-attachments/assets/596af7d8-37e1-4129-aa1f-a0801292c40b)
 
-### Trial #3 (50%)
+### Trial #3 
 
 <img src="https://github.com/user-attachments/assets/3adc6ec1-0382-4dc9-a5a6-4b9ced75da0b" width="1050"/>
 
 ![3m](https://github.com/user-attachments/assets/dcc34393-35c5-4dbe-ac30-7f63d4bf4e82)
 
 
-### Trial #4 (75%)
+### Trial #4 
 
 <img src="https://github.com/user-attachments/assets/fe24eb45-eb7f-443d-a92c-2c8624696fdf" width="1050"/>
 
 ![4M](https://github.com/user-attachments/assets/f4983516-e689-47b9-8b3a-ba1f638cae9d)
 
-### Trial #5 (100%)
+### Trial #5 
 
 <img src="https://github.com/user-attachments/assets/a20af2e6-a2a4-4bda-b3c7-6d1fccdbec5e" width="1050"/>
 
