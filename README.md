@@ -8,11 +8,15 @@
 
 ## Parametric Table
 
+<img src="" width="600"/>
+
 ## Inverse Kinematics
+
+<img src=" " width="600"/>
 
 ## Top View and Front View of Inverse Kinematics
 
-
+<img src=" " width="600"/>
 
 ***Python Script***
 
