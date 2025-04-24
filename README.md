@@ -123,5 +123,4 @@ Spart.teach
 
 ![5M](https://github.com/user-attachments/assets/43bf9ad6-b622-47f9-8539-7ef99c161d00)
 
-## Conclusion
 
