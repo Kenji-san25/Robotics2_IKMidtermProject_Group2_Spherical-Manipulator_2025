@@ -1,5 +1,5 @@
 <div align="center"><h1>
- Spherical Mechanical Manipulator
+Robotics2_IKMidtermProject_Group2_Spherical Manipulator_2025
 </h1></div>
 
 ## Forward Kinematics
